@@ -1,0 +1,15 @@
+Embed code for files in this directory:
+
+<div style="width:100%; height:900px;">
+  <iframe
+    src="https://drkblake.github.io/mtsu-journalism-materials/FILENAME.html"
+    width="100%"
+    height="100%"
+    style="border:none;"
+    loading="lazy"
+    allowfullscreen>
+  </iframe>
+</div>
+
+Adjust the filename as needed.
+
